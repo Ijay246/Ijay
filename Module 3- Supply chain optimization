@@ -1,0 +1,7 @@
+import pandas as pd
+
+# Load dataset (CSV)
+df = pd.read_csv(r"C:\Users\User\Downloads\smart_logistics_dataset.csv")
+
+
+
